@@ -1,0 +1,20 @@
+{
+  "name": "ica-chinookdata-yash-bhakta",
+  "version": "1.0.0",
+  "description": "<img width=\"150px\" src=\"https://w0244079.github.io/nscc/nscc-jpeg.jpg\" >",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "better-sqlite3": "^11.5.0",
+    "express": "^4.21.1",
+    "joi": "^17.13.3",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.1.7"
+  }
+}
